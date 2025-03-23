@@ -1,4 +1,4 @@
-module github.com/MaestroError/go-libheif
+module github.com/rldotpl/go-libheif
 
 go 1.18
 
